@@ -2,12 +2,11 @@
 
 /* Color palette and spacing */
 :root {
-  --primary-color: #0b0b0b;
-  --secondary-color: #10de66;
-  --background-color: #fdf7f7;
-  --text-color: #333333;
-  --white: #ffffff;
-
+    --primary-color: #0b0b0b;
+    --secondary-color: #087a3e;
+    --background-color: #fdf7f7;
+    --text-color: #333333;
+    --white: #ffffff;
   --spacing: 8px;
 }
 
