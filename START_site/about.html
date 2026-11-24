@@ -39,12 +39,23 @@
     </section>
     <section>
       <h2>Contact</h2>
-      <p>rboggs@my.campus.edu</p>
-      <p>
-  <a href="https://www.linkedin.com/in/rosella-boggs-51a8893aa/">
-    Connect with me on LinkedIn
-  </a>
-</p>
+      <p>rbogga@my.campus.edu</p>
+      <p><a href="https://www.linkedin.com/in/rosella-boggs-51a8893aa/"></a></p>
+      <h3>Send Me a Message</h3>
+      <form>
+        <p id="form-instructions">All fields are required.</p>
+  <label for="name">Your Name :</label>
+<input type="text" id="name" name="name" required>
+        aria-describedby="form-instructions"
+  <label for="email">Your Email:</label>
+<input type="email" id="email" name="email" required>
+        aria-describedby="form-instructions"
+        <label for="message">Your Message:</label>
+<textarea id="message" name="message" rows="5" required></textarea>
+        aria-describedby="form-instructions"
+        <button type="submit">Send Message</button>
+      </form>
+    
     </section>
   </main>
   <footer>
