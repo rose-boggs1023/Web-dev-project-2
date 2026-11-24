@@ -32,7 +32,7 @@ jobs:
       - name: Upload Website
         uses: actions/upload-pages-artifact@v3
         with:
-          path: "Web Develpment Project/L4_student_files/START_site"
+          path: "START_site"
 
       - name: Deploy Website
         id: deployment
