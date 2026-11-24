@@ -28,7 +28,7 @@ h1, h2, h3 {
 }
 
 header {
-  background-color: var(--primary-color);
+  background-color: #243746
   color: var(--white);
   text-align: center;
   padding: 32px 16px;
@@ -91,7 +91,7 @@ img {
 
 /* Footer */
 footer {
-  background-color: var(--primary-color);
+  background-color: #243746
   color: var(--white);
   text-align: center;
   padding: 24px;
