@@ -2,9 +2,9 @@
 
 /* Color palette and spacing */
 :root {
-  --primary-color: #34495e;
-  --secondary-color: #d8a7a7;
-  --background-color: #f8f5f2;
+  --primary-color: #000000;
+  --secondary-color: #03f166;
+  --background-color: #fdf7f7;
   --text-color: #333333;
   --white: #ffffff;
 
