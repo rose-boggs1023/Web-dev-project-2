@@ -74,7 +74,8 @@ nav a {
 }
 
 nav a:hover {
-  color: var(--white);
+  color: var(--primary-color);
+}
 }
 
 /* Profile image */
